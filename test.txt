@@ -1,0 +1,19 @@
+[Rainmeter]
+Logging=0
+SkinPath=C:\Users\KIIT\Documents\Rainmeter\Skins\
+[QuoteStyle]
+FontColor=FFFFFFCF
+FontSize=22
+FontFace=MONOTYPE CORSIVA
+AntiAlias=1
+StringAlign=LEFT
+StringStyle=ITALIC
+[Quote]
+X=5 
+Y=60
+W=580
+H=69
+cLIPsTRING=1
+Meter=STRING
+MeterStyle=QuoteStyle
+Text = What is obvious to you might be amazing to others!!!
