@@ -1,4 +1,4 @@
-# Rainmeter
+# Rainmeter & Python
 ## How to use it ?
 1. Install Rainmeter on the local computer and set its path in the Environment Variables
 2. In the installaion path of Rainmeter, go into Skins folder and create a new folder named "NewFolder"
